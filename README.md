@@ -39,11 +39,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
 <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture>  ***Tools***
 
 <div>
-  <p style="display: inline-block;" align="center">
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -54,14 +52,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
+    </kbd><br>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </kbd>
+    </kbd><br>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -70,14 +68,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </kbd>
+    </kbd><br>
     <kbd>
       <kbd>Database</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    </kbd>
+    </kbd><br>
     <br>
     <br>
     <kbd>
