@@ -36,34 +36,12 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 </p>
 
 ---
-</td><td valign="top" width="33%">
-<p align="right">
-
-  ***
+<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
- ✨Catch me night only, especially between the Fri. evening to the Mon. early morning. 
-</td><td valign="top" width="33%">
-<p align="right">
-
-  ***
-  
-  > 人类对科技，一比零 :s
-  
-  ***
-  
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-
-  ***
-  
-  > Human Vs. AI (1:0) :s
-  
-  ***
-  
-</p>
-</td></tr></table>
-
----
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/67d1aacd-464b-4a54-979b-a139888cabf5.svg)](https://wakatime.com/@67d1aacd-464b-4a54-979b-a139888cabf5)
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture>  ***Tools***
+
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -341,4 +319,28 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
     </kbd>
   </p>
-</div>
+</div> 
+</td><td valign="top" width="33%">
+<p align="right">
+
+  ***
+  
+  > 人类对科技，一比零 :s
+  
+  ***
+  
+<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+
+  ***
+  
+  > Human Vs. AI (1:0) :s
+  
+  ***
+  
+</p>
+</td></tr></table>
+
+<table><tr><td valign="top" width="33%">
+
+---
+
