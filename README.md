@@ -54,6 +54,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
+    <br>
+    <br>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
@@ -62,6 +64,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </kbd>
+    <br>
+    <br>
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -72,6 +76,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     </kbd>
+    <br>
+    <br>
     <kbd>
       <kbd>Database</kbd>
       <br>
@@ -95,22 +101,14 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
   ***
   
-  > 人类对科技，一比零 :s
+  > Stats
   
   ***
   
 <img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
-  ***
-  
-  > Human Vs. AI (1:0) :s
-  
-  ***
   
 </p>
 </td></tr></table>
-
-<table><tr><td valign="top" width="33%">
-
 ---
 
