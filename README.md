@@ -98,10 +98,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ***Tools***  
   ***
 
- <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-                <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=Shiuu28&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
-            </a>
+ <a href="https://github.com/Shiuu28/Shiuu28" title="Go to Source">
+
 </p>
 </td></tr></table>
 
