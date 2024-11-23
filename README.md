@@ -97,9 +97,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
-  
 
-![3D Profile](https://skyline.github.com/Shiuu28/2024.svg)
+  <img  src = "https://github.com/Shiuu28/Shiuu28/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
 
 </p>
 </td></tr></table>
