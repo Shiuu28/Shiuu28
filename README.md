@@ -17,7 +17,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-I am Software Programming student at SENA. I have to know Python, Javascript, HTML, and BD. I love to learn and build something new, productive, innovative and creative.
+I am Software Programming student at SENA. I have to know Python, Javascript, HTML, BD and cybersecurity concepts. I love to learn and build something new, productive, innovative and creative.
 * **At the present time I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - React js
