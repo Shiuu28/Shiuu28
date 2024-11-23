@@ -83,7 +83,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <br>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql.svg" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql-original-wordmark.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
     <br>
@@ -110,5 +110,4 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 </p>
 </td></tr></table>
----
 
