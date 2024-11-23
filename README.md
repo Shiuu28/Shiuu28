@@ -97,9 +97,16 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
-
- <a href="https://github.com/Shiuu28/Shiuu28" title="Go to Source">
-
+ <div align=center>
+            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+                <img align="left" width=390
+                    src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
+            </a>
+            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+                <img align="right" width=390
+                    src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
+            </a>
+        </div>
 </p>
 </td></tr></table>
 
