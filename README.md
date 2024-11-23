@@ -97,12 +97,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
-  <div >
-            <p align="center">
-                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
-                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
-            </p>
-        </div></p>
+  <a href="https://app.daily.dev/lebathang"><img align="right"
+            src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
+            alt="Lê Bá Thắng's Dev Card" />
 </td></tr></table>
 
