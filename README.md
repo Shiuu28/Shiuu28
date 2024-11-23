@@ -52,6 +52,7 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     <br>
     <br>
+    </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
