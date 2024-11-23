@@ -30,9 +30,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HridoyHazard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiuu28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <img height= "202" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
+    <img height= "202" src="https://github-readme-stats.vercel.app/api?username=Shiuu28&theme=react&show_icons=true&include_all_commits=true" />
 </p>
 
 ---
