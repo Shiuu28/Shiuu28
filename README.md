@@ -98,8 +98,10 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ***Tools***  
   ***
 
- <img src="https://github-profile-trophy.vercel.app/?username=Shiuu&theme=onedark&column=3&margin-w=15&margin-h=15" />
-
+ <a href="https://github.com/lebathang/lebathang" title="Go to Source">
+                <img align="right" width=390
+                    src="https://github-readme-streak-stats.herokuapp.com?user=Shiuu28&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
+            </a>
 </p>
 </td></tr></table>
 
