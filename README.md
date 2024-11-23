@@ -97,7 +97,12 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
-  <img src="https://github-profile-trophy.vercel.app/?username=lebathang&theme=onedark&column=3&margin-w=15&margin-h=15" />
-</p>
+  <div >
+            <p align="center">
+                <a href="https://github.com/lebathang/QuanLiThuVien"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien" alt="Readme Card"></a>
+                <a href="https://github.com/lebathang/Webside-An-Vat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat" alt="Readme Card"></a>
+                <a href="https://github.com/lebathang/lebathang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang" alt="Readme Card"></a>
+            </p>
+        </div></p>
 </td></tr></table>
 
