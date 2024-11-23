@@ -99,7 +99,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   ***
   
 
-![3D Profile](https://github.com/Shiuu28/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
   
 </p>
 </td></tr></table>
