@@ -105,7 +105,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
   ***
   
-<img width="900" align="center" src="https://github.com/Shiuu28/Shiuu28/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+<img width="900" align="center" src="https://github.com/HsiangNianian/Shiuu28/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
 
   
 </p>
