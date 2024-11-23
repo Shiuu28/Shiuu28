@@ -3,7 +3,8 @@
         <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="GIF" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Shiuu+%F0%9F%91%8B;Software+Programming+Student;Problem+Solver;
+            Freelancer" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -17,15 +18,12 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am Software Programming student at SENA. I have to know Python, Javascript, HTML, and BD. I love to learn and build something new, productive, innovative and creative.
+* **At the present time I am interested in Web designing**
 - 🌱 I’m currently learning ...
-  - Java
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- Outside tech, 📖 I love to read, 🖌️ draw, 🎵 listen to music, learn languages and 🌴 explore nature outdoors.
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> ***Github Stats***
 <p align="center">
@@ -53,7 +51,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
     <br>
     <br>
     <kbd>
@@ -93,10 +90,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 </td><td valign="top" width="33%">
 <p align="right">
 
-  ***
-  
-***Tools***  
-  ***
 <hr width="100%">
    <a href="https://app.daily.dev/shiuu"><img src="https://api.daily.dev/devcards/v2/M2rH7bvJvOLmjrdXOPvqt.png?r=s07&type=default" 
     width="356" alt="Shiuu's Dev Card"/></a>
