@@ -92,7 +92,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
       <kbd>Tools</kbd>
       <br>
       <br>
-    <img width="900" align="center" src="https://github.com/Shiuu28/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900" align="center" src="https://github.com/HsiangNianian/Shiuu28/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
   </kbd>
   </p>
 </div> 
