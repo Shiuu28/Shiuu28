@@ -99,7 +99,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   ***
   
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiuu28&theme=github_dark)
+![3D Profile for Shiuu28](https://ghchart.rshah.org/Shiuu28)
 
 </p>
 </td></tr></table>
