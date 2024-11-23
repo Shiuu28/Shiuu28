@@ -88,12 +88,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
     </kbd>
     <br>
     <br>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-    <img width="900" align="center" src="https://github.com/HsiangNianian/Shiuu28/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
-  </kbd>
   </p>
 </div> 
 </td><td valign="top" width="33%">
@@ -104,8 +98,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ***Tools***  
   ***
   
-<img width="900" align="center" src="https://github.com/HsiangNianian/HsiangNianian/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shiuu28&theme=react-dark&hide_border=true&area=true)
 
+![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
   
 </p>
 </td></tr></table>
