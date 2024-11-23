@@ -99,7 +99,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   ***
   
 
-![3D Profile for Shiuu28](https://ghchart.rshah.org/Shiuu28)
+![3D Profile](https://skyline.github.com/Shiuu28/2024.svg)
 
 </p>
 </td></tr></table>
