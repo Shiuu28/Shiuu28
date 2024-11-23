@@ -98,8 +98,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ***Tools***  
   ***
 
-  <img  src = "https://github.com/Shiuu28/Shiuu28/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
+ <img src="https://github-profile-trophy.vercel.app/?username=Shiuu&theme=onedark&column=3&margin-w=15&margin-h=15" />
 
 </p>
 </td></tr></table>
