@@ -99,7 +99,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   ***
 <hr width="100%">
      <a href="https://app.daily.dev/shiuu"><img align="right"
-            src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
+            src="https://api.daily.dev/devcards/B7sZhH8penj" width="400"
             alt="Dev Card" />
             
 </td></tr></table>
