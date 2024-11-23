@@ -97,8 +97,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
-  <a href="https://app.daily.dev/lebathang"><img align="right"
+  <a href="https://app.daily.dev/Shiuu"><img align="right"
             src="https://api.daily.dev/devcards/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="400"
-            alt="Lê Bá Thắng's Dev Card" />
+            alt="Dev Card" />
 </td></tr></table>
 
