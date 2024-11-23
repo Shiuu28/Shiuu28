@@ -99,8 +99,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   ***
   
 
-[![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-](https://skyline.github.com/Shiuu28/2024.svg)  
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiuu28&theme=github_dark)
+
 </p>
 </td></tr></table>
 
