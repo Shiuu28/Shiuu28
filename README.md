@@ -97,24 +97,7 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   
 ***Tools***  
   ***
- <div>
-        <p align=center>
-        <div align=center>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-                <img align="left" width=390
-                    src="https://pr0vjp-github-readme.vercel.app/api?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true" />
-            </a>
-            <a href="https://github.com/lebathang/lebathang" title="Go to Source">
-                <img align="right" width=390
-                    src="https://github-readme-streak-stats.herokuapp.com?user=lebathang&theme=midnight-purple&hide_border=true&date_format=j/n/Y" />
-            </a>
-        </div>
-        <br><br><br><br><br><br><br><br><br>
-        <div align="center">
-            <img src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=lebathang&theme=midnight-purple&&hide_border=truelangs_count=8"
-                alt="top langs" />
-            </p>
-     </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=lebathang&theme=onedark&column=3&margin-w=15&margin-h=15" />
 </p>
 </td></tr></table>
 
