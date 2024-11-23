@@ -98,9 +98,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 ***Tools***  
   ***
 <hr width="100%">
-     <a href="https://app.daily.dev/shiuu"><img align="right"
-            src="https://api.daily.dev/devcards/B7sZhH8penj" width="400"
-            alt="Dev Card" />
+   <a href="https://app.daily.dev/shiuu"><img src="https://api.daily.dev/devcards/v2/M2rH7bvJvOLmjrdXOPvqt.png?r=s07&type=default" 
+    width="356" alt="Shiuu's Dev Card"/></a>
             
 </td></tr></table>
 
