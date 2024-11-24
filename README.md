@@ -7,7 +7,7 @@
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/shiuu-valenzuela-7872a72a1/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://dev.to/shiuu_28"><img width=20px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
+        <a href="https://dev.to/shiuu_28"><img width=200px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
     </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  ***About me***
