@@ -88,7 +88,6 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 <p align="right">
 
 <hr width="100%">
-   <a href="https://app.daily.dev/shiuu"><img src="https://api.daily.dev/devcards/v2/M2rH7bvJvOLmjrdXOPvqt.png?r=s07&type=default" 
-    width="356" alt="Shiuu's Dev Card"/></a>
+   <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td></tr></table>
 
