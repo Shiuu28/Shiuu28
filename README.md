@@ -93,8 +93,8 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
    <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td>
     
-<td valign="top" width="22%">
-<div style="margin-top: 40px;">
+<td valign="top" width="20%">
+<div style="margin-top: 20px;">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" top="20px" width="20px">
   </picture>
@@ -104,14 +104,10 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 
 | **Curso/Certificado**                        | **Descripción**                                |
 |----------------------------------------------|------------------------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | **[Curso de React en Udemy](enlace-al-curso)**  
-  _Construye aplicaciones web interactivas con React._ |
-| ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | **[Certificación en Python](enlace-al-certificado)**  
-  _Aprende programación en Python y análisis de datos._ |
-| ![Full Stack](https://img.shields.io/badge/Desarrollo_Web_Full_Stack-0A0A0A?style=for-the-badge&logo=html5&logoColor=white) | **[Curso Full Stack](enlace-al-curso)**  
-  _Tecnologías web: React, Node.js, MongoDB y más._ |
-| ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white) | **[Curso de Ciberseguridad](enlace-al-curso)**  
-  _Protege sistemas y redes contra ciberamenazas._ |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | **[Curso de React en Udemy](enlace-al-curso)**|
+| ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | **[Certificación en Python](enlace-al-certificado)**|
+| ![Full Stack](https://img.shields.io/badge/Desarrollo_Web_Full_Stack-0A0A0A?style=for-the-badge&logo=html5&logoColor=white) | **[Curso Full Stack](enlace-al-curso)**|
+| ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white) | **[Curso de Ciberseguridad](enlace-al-curso)**|
 
 
 
