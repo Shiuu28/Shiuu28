@@ -92,9 +92,42 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
    <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td>
 <td valign="top" width="20%">
-    ### 💬 Una frase que me inspira
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=8A2BE2&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" />
+ ### 💬 Una frase que me inspira
+<div align="center" style="height: 200px; display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <div style="font-family: 'Pacifico', cursive; font-size: 24px; color: #FF69B4; line-height: 1.5; text-align: center; animation: slide-vertical 5s infinite;">
+    <span>E</span><br>
+    <span>l</span><br>
+    <span> </span><br>
+    <span>a</span><br>
+    <span>p</span><br>
+    <span>r</span><br>
+    <span>e</span><br>
+    <span>n</span><br>
+    <span>d</span><br>
+    <span>i</span><br>
+    <span>z</span><br>
+    <span>a</span><br>
+    <span>j</span><br>
+    <span>e</span><br>
+    <br>
+    <span>n</span><br>
+    <span>u</span><br>
+    <span>n</span><br>
+    <span>c</span><br>
+    <span>a</span><br>
+    <br>
+    <span>a</span><br>
+    <span>g</span><br>
+    <span>o</span><br>
+    <span>t</span><br>
+    <span>a</span><br>
+    <br>
+    <span>l</span><br>
+    <span>a</span><br>
+    <<br>
+    <span>m</span><br>
+    <span>e</span><br>
+    <span>n</span><br>
 </div>
 
 </td>
