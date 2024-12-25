@@ -91,11 +91,13 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 <hr width="100%">
    <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td>
-<ts>### 💬 Una frase que me inspira
+<td valign="top" width="20%">
+    ### 💬 Una frase que me inspira
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&color=8A2BE2&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" />
 </div>
-</ts>
+
+</td>
 </tr>
 
 
