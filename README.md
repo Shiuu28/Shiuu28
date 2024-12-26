@@ -92,24 +92,23 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 <hr width="100%">
    <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td>
-    
+
+
 <td valign="top" width="20%">
-<div style="margin-top: 20px;">
-  <picture>
-    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" top="20px" width="20px">
-  </picture>
-  <h2><strong>Certificados y Cursos</strong></h2>
+<h3 style="text-align: left; margin-left: 20px;"><strong>Cursos</strong></h3>
+<div style="width: 80%; margin: 0 auto; font-size: 14px;">
+  <table>
+    <tr>
+      <th><strong>Curso/Certificado</strong></th>
+      <th><strong>Institución</strong></th>
+    </tr>
+    <tr>
+      <td>Conceptos básicos - Ciberseguridad</td>
+      <td><img src="https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" /></td>
+    </tr>
+  </table>
+
 </div>
-
-
-| **Curso/Certificado**                        | **Descripción**                                |
-|----------------------------------------------|------------------------------------------------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | **[Curso de React en Udemy](enlace-al-curso)**|
-| ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white) | **[Certificación en Python](enlace-al-certificado)**|
-| ![Full Stack](https://img.shields.io/badge/Desarrollo_Web_Full_Stack-0A0A0A?style=for-the-badge&logo=html5&logoColor=white) | **[Curso Full Stack](enlace-al-curso)**|
-| ![Cybersecurity](https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white) | **[Curso de Ciberseguridad](enlace-al-curso)**|
-
-
 
 
 </td>
