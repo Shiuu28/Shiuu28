@@ -88,7 +88,7 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
     <td valign="top" width="35%">
 <p align="right">
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" /></div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" /></div>
 <hr width="100%">
    <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
 </td>
