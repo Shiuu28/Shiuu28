@@ -33,7 +33,7 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 <table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
   
 <!--START_SECTION:waka-->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 20px></picture>  ***Tools***
+## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture>  ***Tools***
 
 <div>
 <div>
@@ -94,26 +94,24 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 </td>
 
 
-<td valign="top" width="20%">
-<h3 style="text-align: left; margin-left: 20px;"><strong>Cursos</strong></h3>
-<div style="width: 80%; margin: 0 auto; font-size: 15px;">
+ <td valign="top" width="20%">
   <table>
+      <div align= "center">
+         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"> Cursos
     <tr>
-      <th><strong>Curso/Certificado</strong></th>
-      <th><strong>Institución</strong></th>
+      <th><strong>Curso</strong></th>
+      <th><strong>Institución/Certificado</strong></th>
     </tr>
     <tr>
       <td>Conceptos básicos - Ciberseguridad</td>
       <td><img src="https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" /></td>
     </tr>
+      </div>
   </table>
-
-</div>
 
 
 </td>
 </tr>
-
 
 </table>
 
