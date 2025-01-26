@@ -6,8 +6,8 @@
         <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I%27m+Shiuu+%F0%9F%91%8B;Software+Programming+Student;Data+%20Analyst;Freelancer" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/shiuu-valenzuela-7872a72a1/"><img width=90px src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://dev.to/shiuu_28"><img width=90px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/shiuu-valenzuela-7872a72a1/"><img width=79px src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://dev.to/shiuu_28"><img width=98px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
     </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  ***About me***
@@ -89,29 +89,9 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
 <p align="right">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" /></div>
-<hr width="100%">
-   <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?r=kga" width="356" alt="Shiuu's Dev Card"/></a>
-</td>
-
-
- <td valign="top" width="20%">
-  <table>
-      <div align= "center">
-         <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"> Cursos
-    <tr>
-      <th><strong>Curso</strong></th>
-      <th><strong>Institución/Certificado</strong></th>
-    </tr>
-    <tr>
-      <td>Conceptos básicos - Ciberseguridad</td>
-      <td><img src="https://img.shields.io/badge/Ciberseguridad-2A9D8F?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity" /></td>
-    </tr>
-      </div>
-  </table>
-
-
+<hr width="100%">      
+ <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?type=wide&r=1kd" width="652" alt="Shiuu's Dev Card"/></a>
 </td>
 </tr>
-
 </table>
 
