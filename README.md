@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I%27m+Shiuu+%F0%9F%91%8B;Software+Programming+Student;Data+%20Analyst;Freelancer" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/shiuu-valenzuela-7872a72a1/"><img width=79px src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="www.linkedin.com/in/shiuu-valenzuela-penagos-7872a72a1"><img width=79px src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
         <a href="https://dev.to/shiuu_28"><img width=98px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
     </div>
 
