@@ -14,7 +14,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-I am Software Programming student at SENA. I have to know Python, Javascript, HTML, BD and cybersecurity concepts. I love to learn and build something new, productive, innovative and creative.
+I am Software Programming student at SENA. I have to know Javascript, HTML, BD relational and cybersecurity concepts. I love to learn and build something new, productive, innovative and creative.
 * **At the present time I am interested in Web designing**
 - 🌱 I’m currently learning ...
   - React js
@@ -43,20 +43,9 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
       <br>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     <br>
     <br>
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     </kbd>
     <br>
     <br>
@@ -78,7 +67,6 @@ I am Software Programming student at SENA. I have to know Python, Javascript, HT
       <br>
       <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
     <br>
     <br>
