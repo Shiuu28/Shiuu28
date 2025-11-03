@@ -21,8 +21,7 @@ I am currently studying Software Analysis and Development. I am passionate about
 ## <picture> <img align="left-center" width = 50px src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"></picture> ***Github Stats***
 
 <a href="http://www.github.com/Shiuu28"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiuu28&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Shiuu28's GitHub stats" /></a>
-
-<a href="http://www.github.com/Shiuu28"><img aligm="right" widht="100" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiuu28&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Shiuu28"><img aligm="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiuu28&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ##
 <picture> <img align="right" widht = 300px height="300" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="GIF"> </picture> 
