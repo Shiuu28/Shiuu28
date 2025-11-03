@@ -1,85 +1,47 @@
-<div>
-    <div align=center>
-        <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="GIF" height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there,+I%27m+Shiuu+%F0%9F%91%8B;Software+Programming+Student;Data+%20Analyst;Freelancer" />
-    </div>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/shiuu-valenzuela-penagos-7872a72a1/"><img width=79px src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="https://dev.to/shiuu_28"><img width=98px src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
-    </div>
+![Header](./github-header-banner.png)
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture>  ***About me***
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-
-
-I am Software Programming student at SENA. I have to know Javascript, HTML, BD relational and cybersecurity concepts. I love to learn and build something new, productive, innovative and creative.
-* **At the present time I am interested in Web designing**
-- 🌱 I’m currently learning ...
-  - React js
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read, 🖌️ draw, 🎵 listen to music, learn languages and 🌴 explore nature outdoors.
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> ***Github Stats***
-<p align="center">
-    <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiuu28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <img height= "202" src="https://github-readme-stats.vercel.app/api?username=Shiuu28&theme=react&show_icons=true&include_all_commits=true" />
+<p align="center"> 
+<a href="https://www.dev.to/Shiuu28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> 
+<a href="https://www.linkedin.com/in/shiuu-valenzuela-penagos-7872a72a1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> 
+<a href="https://discord.com/users/Shiuu28" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a>
+<a href="https://notion.com/users/Shiuu28" target="_blank" rel="noreferrer"> <picture> <img src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=FFFFFF" width="32" height="32" alt="Notion" title="Notion" /> </picture> </a>
 </p>
 
----
-<table style="border-color: transparent;" cellspacing=0 ><tr><td valign="top" width="10%">
-  
-<!--START_SECTION:waka-->
-## <picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture>  ***Tools***
+## 
+## <picture><img align="left-center" width=50px alt="Cute" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /></picture> ***About me***
 
-<div>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    <br>
-    <br>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-    </kbd>
-    <br>
-    <br>
-  </p>
-</div> 
-</td>
-    <td valign="top" width="35%">
-<p align="right">
+
+I am currently studying Software Analysis and Development. I am passionate about technology and am constantly learning to strengthen my technical skills and knowledge. My goal is to create, lead, and add value to projects that have a significant impact.
+
+
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a>
+</p>
+
+## <picture> <img align="left-center" width = 50px src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true"></picture> ***Github Stats***
+
+<a href="http://www.github.com/Shiuu28"><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shiuu28&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="Shiuu28's GitHub stats" /></a>
+
+<a href="http://www.github.com/Shiuu28"><img aligm="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiuu28&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+##
+<picture> <img align="right" widht = 300px height="300" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="GIF"> </picture> 
+<picture><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px></picture> ***My professional experience***
+<br>
+
+>**Microsoft Colombia | Fundación Nana | JUNA**
+
+**Role AI Development**
+
+* ✅ Structuring and cleaning data sets
+* ✅ Model training and evaluation
+* ✅ Base model configuration        
+* ✅ Unit testing of functionality  
+* ✅ Test automation with GitHub Actions
+* ✅ Implementation of incremental learning methodology
+* ✅ Migration to Azure Machine Learning
+
+## <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&lines=%22El+aprendizaje+nunca+agota+la+mente.%22;%E2%80%93+Leonardo+da+Vinci" alt="Frase inspiradora" /></div>
-<hr width="100%">      
- <a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?type=wide&r=1kd" width="652" alt="Shiuu's Dev Card"/></a>
-</td>
-</tr>
-</table>
-
+<a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?type=wide&r=v1h" width="800" height="400" alt="Shiuu's Dev Card"/></a>
+</div>
