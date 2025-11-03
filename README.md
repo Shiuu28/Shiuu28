@@ -42,5 +42,5 @@ I am currently studying Software Analysis and Development. I am passionate about
 
 ## <br>
 <div align="center">
-<a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?type=wide&r=v1h" width="800" height="400" alt="Shiuu's Dev Card"/></a>
+<a href="https://app.daily.dev/shiuu28"><img src="https://api.daily.dev/devcards/v2/9zU0dRdC9AIlDAw2VHZsn.png?type=wide&r=4tt" width="652" alt="Shiuu's Dev Card"/></a>
 </div>
